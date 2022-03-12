@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="62" viewBox="0 0 136 62">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 44px;
+        font-family: Mohave;
+        font-weight: 700;
+        font-style: italic;
+      }
+    </style>
+  </defs>
+  <text id="DATALAR" class="cls-1" transform="translate(0 44)"><tspan x="0" y="0">DATALAR</tspan></text>
+</svg>
